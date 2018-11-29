@@ -3,4 +3,5 @@ title: about
 layout: default
 ---
 
-{% include my_bokeh_file.html %}
+{% include mcafr2-nostyling.html %}
+  
